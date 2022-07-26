@@ -5,23 +5,32 @@ Interessado na área da computação e desenvolvimento de software.
 
 Autodidata sobre conhecimentos e habilidades de programação.
 
-Java Script 🟩⬛⬛⬛⬛
+Java Script  
+🟩⬛⬛⬛⬛
 
-C           🟩🟩⬛⬛⬛
+C           
+🟩🟩⬛⬛⬛
 
-C++         🟩⬛⬛⬛⬛
+C++         
+🟩⬛⬛⬛⬛
 
-Embedded C  🟩🟩⬛⬛⬛
+Embedded C  
+🟩🟩⬛⬛⬛
 
-Python      🟩⬛⬛⬛⬛
+Python      
+🟩⬛⬛⬛⬛
 
-Html e CSS  🟩🟩⬛⬛⬛
+Html e CSS  
+🟩🟩⬛⬛⬛
 
 Sem muito conhecimento aprofundado, busco aperfeiçoamento.
 
 Estudando ciencia da computação através do curso CS50, um curso gratuito de Harvard.
+
 Para saber mais, acesse: https://materiais.napratica.org.br/cc50/?_gl=1*vw4t9u*_ga*MTgwMzAyNjA1My4xNjUyMTgzNjc2*_ga_7WBS7RLRD9*MTY1ODgzNjgwNC4zLjAuMTY1ODgzNjgxMi41Mg..
 
 Meus contatos:
+
 E-mail: eduardo.crvzs@gmail.com
+
 WhatsApp: 51 995802117
