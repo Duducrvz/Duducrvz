@@ -5,10 +5,15 @@ Interessado na área da computação e desenvolvimento de software.
 
 Autodidata sobre conhecimentos e habilidades de programação.
 Java Script 🟩⬛⬛⬛⬛
+
 C           🟩🟩⬛⬛⬛
+
 C++         🟩⬛⬛⬛⬛
+
 Embedded C  🟩🟩⬛⬛⬛
+
 Python      🟩⬛⬛⬛⬛
+
 Html e CSS  🟩🟩⬛⬛⬛
 
 Sem muito conhecimento aprofundado, busco aperfeiçoamento.
