@@ -4,6 +4,7 @@ Sou estudante de Eletrônica na Fundação Liberato Salzano Vieira da Cunha, uma
 Interessado na área da computação e desenvolvimento de software.
 
 Autodidata sobre conhecimentos e habilidades de programação.
+
 Java Script 🟩⬛⬛⬛⬛
 
 C           🟩🟩⬛⬛⬛
