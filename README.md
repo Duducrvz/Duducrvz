@@ -1,7 +1,10 @@
 👋 Olá, meu nome é Eduardo Cruz.
 
 Sou estudante de Eletrônica na Fundação Liberato Salzano Vieira da Cunha, uma escola de ensino médio técnico.
-Interessado na área da computação e desenvolvimento de software.
+|Prática com microcontroladores, montagem de circuitos eletrônicos, bancada, etc.|
+
+Conhecimento básico de engenharia da computação.
+Grande interesse na área da computação e desenvolvimento de software.
 
 Autodidata sobre conhecimentos e habilidades de programação.
 
@@ -9,7 +12,7 @@ Java Script
 🟩⬛⬛⬛⬛
 
 C           
-🟩🟩⬛⬛⬛
+🟩🟩🟩⬛⬛
 
 C++         
 🟩⬛⬛⬛⬛
