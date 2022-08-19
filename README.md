@@ -25,7 +25,7 @@ Html e CSS
 
 Sem muito conhecimento aprofundado, busco aperfeiçoamento.
 
-Estudando ciencia da computação através do curso CS50, um curso gratuito de Harvard.
+Estudando ciencia da computação através do curso CC50, um curso gratuito de Harvard.
 
 Para saber mais, acesse: https://materiais.napratica.org.br/cc50/?_gl=1*vw4t9u*_ga*MTgwMzAyNjA1My4xNjUyMTgzNjc2*_ga_7WBS7RLRD9*MTY1ODgzNjgwNC4zLjAuMTY1ODgzNjgxMi41Mg
 
