@@ -12,6 +12,9 @@ Autodidata sobre conhecimentos e habilidades de programação.
 Java Script  
 🟩⬛⬛⬛⬛
 
+Java  
+🟩⬛⬛⬛⬛
+
 C           
 🟩🟩🟩🟩🟩
 
